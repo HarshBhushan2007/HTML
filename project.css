@@ -1,0 +1,35 @@
+h1{
+    position: absolute;
+    top: -4%;
+    right: 44%;
+}
+bordered {
+  border: 2px solid black;
+  padding: 10px;
+  display: inline-table; /* Keeps the box tight around the sentence */
+  border-radius: 10px;     /* Optional: rounded corners */
+  background-color: #11689a; /* Optional: light background */
+}
+img{
+  border: 4px solid black;
+  position: absolute;
+  top: 10%;
+  right: 4%;
+}
+h2{position: absolute;
+    nav-down: -4%;
+    right: 44%
+}
+h3{
+  position: absolute;
+  nav-down: -4%;
+  right: 9%;
+}
+t{
+  position: absolute;
+  top: 111%;
+  right: 6%;
+}
+body{
+  background-color:lightblue;
+}
